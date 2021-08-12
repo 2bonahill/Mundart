@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mundart</string>
+    <string name="no_words">Keine Wörter gefunden.</string>
+    
+    <string name="tab_wordlist">Wortschatz</string>
+    <string name="tab_mywords">Meine Wörter</string>
+    
+    <string name="menu_edit">Übersetzung hinzufügen</string>
+    <string name="menu_add">Neues Wort</string>
+    <string name="menu_send">Meine Wörter senden</string>
+    
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+
+	<string name="senden_thanks">Die Wörter werden überprüft und können in die nächste Version von Mundart integriert werden.</string>
+	<string name="senden_fehler">Die Wörter konnten nicht gesendet werden. Bitte überprüfen Sie die Internetverbindung und versuchen Sie es erneut.</string>
+	
+</resources>
